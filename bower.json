@@ -1,0 +1,21 @@
+{
+  "name": "art_randomizer",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Franz Knupfer <franzknupfer@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "materialize": "^0.97.8"
+  }
+}
